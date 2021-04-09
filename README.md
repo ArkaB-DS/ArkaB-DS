@@ -4,7 +4,7 @@
 ### Welcome to my profile! 😍 ![](https://komarev.com/ghpvc/?username=ArkaB-DS&color=brightgreen&style=plastic)
   I am currently a Masters student in Statistics at Indian Institute of Technology, Kanpur, India.
   
-### Connect with me : 
+### <font color="red"> Connect with me </font>: 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkajyoti-aj/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arkastat98@gmail.com)
 
