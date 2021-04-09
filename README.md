@@ -16,7 +16,7 @@
 - 😄 Pronouns: his/him/he ♂️
 - ⚡ Fun fact: I ❤️ 🍨 😉
 
-## Languages: 
+## Programming Languages: 
 [![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]() 
 [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 [![Python badge](	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
@@ -28,7 +28,7 @@
 [![MS Excel](	https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
 
 ## My Github Stats :
-[![Arkajyoti's Github Stats](https://github-readme-stats.vercel.app/api?username=ArkaB-DS&theme=radical&count_private=TRUE&show_icons=true)]()
+[![Arkajyoti's Github Stats](https://github-readme-stats.vercel.app/api?username=ArkaB-DS&theme=radical&count_private=TRUE&show_icons=true&hide=stars,prs,issues,contribs)]()
 
 ## Top Languages used :
 ***Note*** : *This does not represent my skill in the languages!*
