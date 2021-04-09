@@ -14,7 +14,7 @@
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/arkastat98)
 
 
-- 🔭 I’m currently working on life 😫 
+<!--- 🔭 I’m currently working on life : -->
 - 🌱 I’m currently learning Statistical Learning.
 - 💬 Ask me about Statistics 📖, R 💻
 - 😄 Pronouns: his/him/he ♂️
