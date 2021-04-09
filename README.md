@@ -10,7 +10,7 @@
 
 ### Follow me : 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArkaB-DS)
-[![Quora Badge]](https://img.shields.io/badge/Quora%20-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)(https://www.quora.com/profile/Arka-Bhattacharjee-19)
+[![Quora Badge](https://img.shields.io/badge/Quora%20-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Arka-Bhattacharjee-19)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/arkastat98)
 
 
