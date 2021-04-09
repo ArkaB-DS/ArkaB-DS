@@ -33,4 +33,4 @@
 ## Top Languages used :
 ***Note*** : *This does not represent my skill in the languages!*
 
-[![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkaB-DS)]()
+[![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkaB-DS&exclude=Real-Analysis,Adaptive-MCMC,A-Visual-History-of-Nobel-Prize-Winners-)]()
