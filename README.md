@@ -28,15 +28,15 @@
 [![Anaconda Badge](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)]()
 [![MS Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)]()
 [![MS Excel](	https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
-[![Latex Badge](<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>)]
+[![Latex Badge](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)]()
 
-## OS-s I Use:
-[![Computer OS](<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />)]()
-[![Mobile OS](<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />)]()
+## OSs I Use:
+[![Computer OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+[![Mobile OS](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
 
 
 ## My Github Stats & Top Languages used :
 ***Note*** : *This does not represent my skill in the languages!*
 
 [![Arkajyoti's Github Stats](https://github-readme-stats.vercel.app/api?username=ArkaB-DS&theme=blue-green&count_private=TRUE&show_icons=true&hide=prs,issues,contribs)]()
-[![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkaB-DS&exclude_repo=Real-Analysis,Adaptive-MCMC,A-Visual-History-of-Nobel-Prize-Winners-)]()
+[![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkaB-DS&exclude_repo=Real-Analysis,Adaptive-MCMC,A-Visual-History-of-Nobel-Prize-Winners-&theme=midnight-purple)]()
