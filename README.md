@@ -13,7 +13,6 @@
 - 🔭 I’m currently working on life 😫 
 - 🌱 I’m currently learning Statistical Learning.
 - 💬 Ask me about Statistics 📖, R 💻
-- 📫 How to reach me: [Conect with me on Linkedin](https://www.linkedin.com/in/arkajyoti-aj/), [Drop me a mail](arkastat98@gmail.com)
 - 😄 Pronouns: his/him/he ♂️
 - ⚡ Fun fact: I ❤️ 🍨 😉
 
