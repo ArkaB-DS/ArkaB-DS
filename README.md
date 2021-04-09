@@ -8,6 +8,8 @@
 
 ### Follow me : 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArkaB-DS)
+[![Quora Badge]](<img alt="Quora" src="https://img.shields.io/badge/Quora%20-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"/>)(https://www.quora.com/profile/Arka-Bhattacharjee-19)
+[![Hackerrank Badge](<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>)](https://www.hackerrank.com/arkastat98)
 
 
 - 🔭 I’m currently working on life 😫 
@@ -26,11 +28,15 @@
 [![Anaconda Badge](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)]()
 [![MS Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)]()
 [![MS Excel](	https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
+[![Latex Badge](<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>)]
 
-## My Github Stats :
-[![Arkajyoti's Github Stats](https://github-readme-stats.vercel.app/api?username=ArkaB-DS&theme=radical&count_private=TRUE&show_icons=true&hide=stars,prs,issues,contribs)]()
+## OS-s I Use:
+[![Computer OS](<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />)]()
+[![Mobile OS](<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />)]()
 
-## Top Languages used :
+
+## My Github Stats & Top Languages used :
 ***Note*** : *This does not represent my skill in the languages!*
 
-[![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkaB-DS&exclude=Real-Analysis,Adaptive-MCMC,A-Visual-History-of-Nobel-Prize-Winners-)]()
+[![Arkajyoti's Github Stats](https://github-readme-stats.vercel.app/api?username=ArkaB-DS&theme=blue-green&count_private=TRUE&show_icons=true&hide=prs,issues,contribs)]()
+[![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkaB-DS&exclude_repo=Real-Analysis,Adaptive-MCMC,A-Visual-History-of-Nobel-Prize-Winners-)]()
