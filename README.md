@@ -2,7 +2,7 @@
 
 ### I'm *Arkajyoti Bhattacharjee* 😎 aka ***AJ*** 😁
 ### Welcome to my profile! 😍 ![](https://komarev.com/ghpvc/?username=ArkaB-DS&color=brightgreen&style=plastic)
-  I am currently a Masters student in Statistics at Indian Institute of Technology, Kanpur, India.
+  I am currently a graduate student pursuing my Masters in **Statistics** at *Indian Institute of Technology, Kanpur*, India.
   
 ### <font color="red"> Connect with me </font>: 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkajyoti-aj/)
