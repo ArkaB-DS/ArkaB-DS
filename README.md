@@ -41,4 +41,4 @@
 ***Note*** : *This does not represent my skill in the languages!*
 
 [![Arkajyoti's Github Stats](https://github-readme-stats.vercel.app/api?username=ArkaB-DS&theme=blue-green&count_private=TRUE&show_icons=true&hide=prs,issues,contribs)]()
-[![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkaB-DS&exclude_repo=Real-Analysis,Adaptive-MCMC,A-Visual-History-of-Nobel-Prize-Winners-&theme=midnight-purple)]()
+[![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkaB-DS&exclude_repo=Real-Analysis,A-Visual-History-of-Nobel-Prize-Winners-&theme=midnight-purple)]()
