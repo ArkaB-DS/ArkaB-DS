@@ -59,7 +59,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArkaB-DS&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## My Github Stats & Top Languages used :
+## My Github Stats & Top Languages used 
 ***Note*** : *This does not represent my skill in the languages!*
 <details>
 <summary>💻 GitHub Profile Stats</summary>
