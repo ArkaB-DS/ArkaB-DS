@@ -1,10 +1,17 @@
 
-<!--<div align="center" width="50">-->
-<img src="https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" width="300" height="150"/>
+<div align="center" width="50">
 
-### I'm *Arkajyoti Bhattacharjee* 😎 aka ***AJ*** 😁
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!;Welcome+to+my+GitHub+profile!;I'm+Arkajyoti+Bhattacharjee;aka+AJ.;I'm+a+final-year+postgraduate+student;in+Statistics;at+the+Indian+Institute+of+Technology,+Kanpur.;&center=true&size=15">
+  </a>
+</h1>
+  
+<!--<img src="https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" width="300" height="150"/>-->
+
+<!--### I'm *Arkajyoti Bhattacharjee* 😎 aka ***AJ*** 😁
 ### Welcome to my profile! 😍 ![](https://komarev.com/ghpvc/?username=ArkaB-DS&color=brightgreen&style=plastic)
-  I am currently a graduate student pursuing my Masters in **Statistics** at *Indian Institute of Technology, Kanpur*, India.
+  I am currently a graduate student pursuing my Masters in **Statistics** at *Indian Institute of Technology, Kanpur*, India.-->
   
   
 ### <font color="red"> Connect with me </font>: 
@@ -23,11 +30,12 @@
 - 😄 Pronouns: his/him/he ♂️
 - ⚡ Fun fact: I ❤️ 🍨 😉
 
-## Programming Languages: 
+## Programming Languages:
+  
 [![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]() 
 [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 [![Python badge](	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
-
+  
 ## ML/DL Libraries:
 [![Keras badge](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)]()
 [![Pandas badge](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)]()
