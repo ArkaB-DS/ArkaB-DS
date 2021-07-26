@@ -1,5 +1,5 @@
 
-<div align="center" width="50">
+<!--<div align="center" width="50">-->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
