@@ -1,6 +1,8 @@
 
 <!--<div align="center" width="50">-->
 
+<div style="background-image: url('https://github.com/ArkaB-DS/ArkaB-DS/blob/main/51816940.png');">
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!;Welcome+to+my+GitHub+profile!;I'm+Arkajyoti+Bhattacharjee;aka+AJ.;I'm+a+final-year+postgraduate+student;in+Statistics;at+the+Indian+Institute+of+Technology,+Kanpur.;&center=true&size=15">
