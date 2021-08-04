@@ -28,10 +28,10 @@
 
 
 <!--- 🔭 I’m currently working on life : -->
- 🌱 I’m currently learning Statistical Learning.
- 💬 Ask me about Statistics 📖, R 💻
- 😄 Pronouns: his/him/he ♂️
- ⚡ Fun fact: I ❤️ 🍨 😉
+- 🌱 I’m currently learning Statistical Learning.
+- 💬 Ask me about Statistics 📖, R 💻
+- 😄 Pronouns: his/him/he ♂️
+- ⚡ Fun fact: I ❤️ 🍨 😉
 
 ## Programming Languages
   
