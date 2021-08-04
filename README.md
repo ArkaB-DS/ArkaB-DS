@@ -16,11 +16,11 @@
   I am currently a graduate student pursuing my Masters in **Statistics** at *Indian Institute of Technology, Kanpur*, India.-->
   
   
-### <font color="red"> 🔗 Connect with me </font> 
+### :link: Connect with me </font> 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkajyoti-aj/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkastat98@gmail.com)
 
-### Follow me 
+### :tipping_hand_man: Follow me 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArkaB-DS)
 [![Quora Badge](https://img.shields.io/badge/Quora%20-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Arka-Bhattacharjee-19)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ArkajyotiBhat10)
@@ -33,13 +33,13 @@
 - 😄 Pronouns: his/him/he ♂️
 - ⚡ Fun fact: I ❤️ 🍨 😉
 
-## Programming Languages
+## :computer: Programming Languages
   
 [![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]() 
 [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 [![Python badge](	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
   
-## ML/DL Libraries
+## :robot: ML/DL Libraries
 [![Keras badge](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)]()
 [![Pandas badge](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)]()
 [![Numpy badge](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)]()
@@ -61,7 +61,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArkaB-DS&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## My Github Stats & Top Languages used 
+## :bar_chart: My Github Stats & Top Languages used 
 ***Note*** : *This does not represent my skill in the languages!*
 <details>
 <summary>💻 GitHub Profile Stats</summary>
