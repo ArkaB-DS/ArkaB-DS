@@ -29,7 +29,7 @@
 
 <img align="right" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="350" height="200">
 
-### More about me
+### 🤓 More about me
 
 - 🌱 I’m currently learning Statistical Learning.
 - 💻 I code to have fun 
@@ -96,10 +96,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArkaB-DS&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## :bar_chart: Stats 
+## 📈  Stats 
 
 <details>
-<summary 📊 GitHub Profile Stats</summary>
+<summary> 📊 GitHub Profile Stats</summary>
 <br/>
   
 [![Arkajyoti's Github Stats](https://github-readme-stats.vercel.app/api?username=ArkaB-DS&theme=blue-green&count_private=TRUE&show_icons=true)]()
