@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!;Welcome+to+my+GitHub+profile!;I'm+Arkajyoti+Bhattacharjee;aka+AJ.;I'm+a+final-year+postgraduate+student;in+Statistics;at+the+Indian+Institute+of+Technology,+Kanpur.;&center=true&size=15">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!;Welcome+to+my+GitHub+profile!;I'm+Arkajyoti+Bhattacharjee;aka+AJ.;I'm+a+final-year+postgraduate+student;in+Statistics;at+the+Indian+Institute+of+Technology,+Kanpur.;&center=true&size=20&font=Georama&color=132659">
   </a>
 </h1>
   
@@ -13,7 +13,7 @@
 <!--### I'm *Arkajyoti Bhattacharjee* 😎 aka ***AJ*** 😁
 ### Welcome to my profile! 😍 ![](https://komarev.com/ghpvc/?username=ArkaB-DS&color=brightgreen&style=plastic)
   I am currently a graduate student pursuing my Masters in **Statistics** at *Indian Institute of Technology, Kanpur*, India.-->
-
+<br><br>
 
 ## :link: Connect with me
 
