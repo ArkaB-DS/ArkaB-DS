@@ -37,7 +37,10 @@
 - 😄 Pronouns: his/him/he ♂️
 - ⚡ Fun fact: I ❤️ 🍨 😉
 
+
 ### 👨‍💻 Technical Stuffs
+
+<img align="right" src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" width="400" height="300">
 
 <details>
   <summary> :computer: Programming Languages </summary>
