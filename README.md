@@ -1,6 +1,6 @@
 <!--<h1 align = "center"><img src="https://media.giphy.com/media/ZE6QOgFiv1FSGd7qXb/giphy.gif" height="300" width="400" ></h1>-->
 <h1 align = "center"><img src="https://media.giphy.com/media/PRVDslxfTmwXkLinrk/giphy.gif" height="300" width="400" ></h1>
-<!--<div align="center" width="50">-->
+<div align="center" width="50">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -14,10 +14,11 @@
 ### Welcome to my profile! 😍 ![](https://komarev.com/ghpvc/?username=ArkaB-DS&color=brightgreen&style=plastic)
   I am currently a graduate student pursuing my Masters in **Statistics** at *Indian Institute of Technology, Kanpur*, India.-->
 
+
+## :link: Connect with me
+
 <img align="right" src="https://media.giphy.com/media/ftkU3vnQLeAoKcKxas/giphy.gif" width="350" height="150">
-
-### :link: Connect with me
-
+  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkajyoti-aj/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkastat98@gmail.com)
 
@@ -27,10 +28,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ArkajyotiBhat10)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/arkastat98)
 
-<img align="right" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="350" height="200">
 
-### 🤓 More about me
+## 🤓 More about me
 
+<img align="right" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="350" height="150">
+  
 - 🌱 I’m currently learning Statistical Learning.
 - 💻 I code to have fun 
 - 💬 Ask me about Statistics 📖, R 💻
@@ -38,9 +40,9 @@
 - ⚡ Fun fact: I ❤️ 🍨 😉
 
 
-### 👨‍💻 Technical Stuffs
+## 👨‍💻 Technical Stuffs
 
-<img align="right" src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" width="400" height="300">
+<img align="right" src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" width="350" height="200">
 
 <details>
   <summary> :computer: Programming Languages </summary>
