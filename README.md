@@ -31,7 +31,7 @@
 
 ## 🤓 More about me
 
-<img align="right" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="350" height="150">
+<img align="right" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="350" height="200">
   
 🌱 I’m currently learning Statistical Learning.
   
@@ -43,8 +43,6 @@
   
 ⚡ Fun fact: I ❤️ 🍨 😉
   
-
-
 ## 👨‍💻 Technical Stuffs
 
 <img align="right" src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" width="350" height="200">
