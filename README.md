@@ -37,7 +37,7 @@
 - 😄 Pronouns: his/him/he ♂️
 - ⚡ Fun fact: I ❤️ 🍨 😉
 
-### Technical Stuffs
+### 👨‍💻 Technical Stuffs
 
 <details>
   <summary> :computer: Programming Languages </summary>
@@ -96,10 +96,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArkaB-DS&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## :bar_chart: Github Stats 
+## :bar_chart: Stats 
 
 <details>
-<summary>💻 GitHub Profile Stats</summary>
+<summary 📊 GitHub Profile Stats</summary>
 <br/>
   
 [![Arkajyoti's Github Stats](https://github-readme-stats.vercel.app/api?username=ArkaB-DS&theme=blue-green&count_private=TRUE&show_icons=true)]()
@@ -108,7 +108,7 @@
 </details>
 
 <details>
-<summary> 🔆 Most Used Languages </summary>
+<summary> ⚡ Most Used Languages </summary>
 <br/>
   
 [![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkaB-DS&theme=midnight-purple)]()
