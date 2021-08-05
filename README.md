@@ -108,13 +108,14 @@
 </details>
 
 <details>
-<summary 🔆 Most Used Languages </summary>
+<summary> 🔆 Most Used Languages </summary>
 <br/>
   
 [![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkaB-DS&theme=midnight-purple)]()
   
 <br/>
 </details>
+
 <!--## 🗂️ Highlight Projects
 
 <a href="https://github.com/Zhenye-Na/DA-RNN">
