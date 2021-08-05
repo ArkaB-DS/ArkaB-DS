@@ -33,11 +33,16 @@
 
 <img align="right" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="350" height="150">
   
-- 🌱 I’m currently learning Statistical Learning.
-- 💻 I code to have fun 
-- 💬 Ask me about Statistics 📖, R 💻
-- 😄 Pronouns: his/him/he ♂️
-- ⚡ Fun fact: I ❤️ 🍨 😉
+🌱 I’m currently learning Statistical Learning.
+  
+💻 I code to have fun 
+  
+💬 Ask me about Statistics 📖, R 💻
+  
+😄 Pronouns: his/him/he ♂️
+  
+⚡ Fun fact: I ❤️ 🍨 😉
+  
 
 
 ## 👨‍💻 Technical Stuffs
