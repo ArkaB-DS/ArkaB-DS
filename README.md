@@ -37,35 +37,66 @@
 - 😄 Pronouns: his/him/he ♂️
 - ⚡ Fun fact: I ❤️ 🍨 😉
 
-## :computer: Programming Languages
+### Technical Stuffs
+
+<details>
+  <summary> :computer: Programming Languages </summary>
+<br/>  
   
 [![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]() 
 [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 [![Python badge](	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
   
-## :robot: ML/DL Libraries
+<br/>
+</details>  
+ 
+<details>
+<summary> :robot: ML/DL Libraries </summary>
+<br/>
+  
 [![Keras badge](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)]()
 [![Pandas badge](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)]()
 [![Numpy badge](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)]()
 
-## IDEs/Editors
+<br/>
+</details>
+
+<details>
+<summary> IDEs/Editors </summary>
+<br/>
+  
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
-## Other Softwares 
+<br/>
+</details>
+
+<details>  
+<summary> Other Softwares </summary>
+<br/>
+  
 [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)]()
 [![Anaconda Badge](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)]()
 [![MS Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)]()
 [![MS Excel](	https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
 [![Latex Badge](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)]()
 
-## OS-es I Use
+<br/>
+</details>
+
+<details>  
+<summary> OS-es I Use </summary>
+<br/>
+  
 [![Computer OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 
+<br/>
+</details>
+  
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArkaB-DS&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## :bar_chart: My Github Stats & Top Languages used 
+## :bar_chart: Github Stats 
 ***Note*** : *This does not represent my skill in the languages!*
 <details>
 <summary>💻 GitHub Profile Stats</summary>
