@@ -103,7 +103,15 @@
 <br/>
   
 [![Arkajyoti's Github Stats](https://github-readme-stats.vercel.app/api?username=ArkaB-DS&theme=blue-green&count_private=TRUE&show_icons=true)]()
-[![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkaB-DS&exclude_repo=Real-Analysis,A-Visual-History-of-Nobel-Prize-Winners-&theme=midnight-purple)]()
+
+<br/>
+</details>
+
+<details>
+<summary 🔆 Most Used Languages </summary>
+<br/>
+  
+[![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkaB-DS&theme=midnight-purple)]()
   
 <br/>
 </details>
