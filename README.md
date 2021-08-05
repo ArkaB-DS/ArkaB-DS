@@ -97,7 +97,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArkaB-DS&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## :bar_chart: Github Stats 
-***Note*** : *This does not represent my skill in the languages!*
+
 <details>
 <summary>💻 GitHub Profile Stats</summary>
 <br/>
