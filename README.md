@@ -1,7 +1,5 @@
-
+<h1 align = "center"><img src="https://media.giphy.com/media/ZE6QOgFiv1FSGd7qXb/giphy.gif" height="300" width="400" ></h1>
 <!--<div align="center" width="50">-->
-
-<div style="background-image: url('https://github.com/ArkaB-DS/ArkaB-DS/blob/main/51816940.png');">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -14,21 +12,26 @@
 <!--### I'm *Arkajyoti Bhattacharjee* 😎 aka ***AJ*** 😁
 ### Welcome to my profile! 😍 ![](https://komarev.com/ghpvc/?username=ArkaB-DS&color=brightgreen&style=plastic)
   I am currently a graduate student pursuing my Masters in **Statistics** at *Indian Institute of Technology, Kanpur*, India.-->
-  
-  
-### :link: Connect with me </font> 
+
+<img align="right" src="https://media.giphy.com/media/ftkU3vnQLeAoKcKxas/giphy.gif" width="350" height="150">
+
+### :link: Connect with me
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkajyoti-aj/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkastat98@gmail.com)
 
-### :tipping_hand_man: Follow me 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArkaB-DS)
 [![Quora Badge](https://img.shields.io/badge/Quora%20-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Arka-Bhattacharjee-19)
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ArkajyotiBhat10)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/arkastat98)
 
+<img align="right" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="350" height="200">
 
-<!--- 🔭 I’m currently working on life : -->
+### More about me
+
 - 🌱 I’m currently learning Statistical Learning.
+- 💻 I code to have fun 
 - 💬 Ask me about Statistics 📖, R 💻
 - 😄 Pronouns: his/him/he ♂️
 - ⚡ Fun fact: I ❤️ 🍨 😉
