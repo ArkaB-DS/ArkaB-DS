@@ -1,4 +1,5 @@
 <!--<h1 align = "center"><img src="https://media.giphy.com/media/ZE6QOgFiv1FSGd7qXb/giphy.gif" height="300" width="400" ></h1>-->
+![](https://komarev.com/ghpvc/?username=ArkaB-DS&color=brightgreen&style=plastic)
 <h1 align = "center"><img src="https://media.giphy.com/media/PRVDslxfTmwXkLinrk/giphy.gif" height="300" width="400" ></h1>
 <div align="center" width="50">
 
