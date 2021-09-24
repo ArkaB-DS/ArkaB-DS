@@ -16,7 +16,7 @@
   I am currently a graduate student pursuing my Masters in **Statistics** at *Indian Institute of Technology, Kanpur*, India.-->
 <br><br>
 
-## :link: Connect with me
+  ## :link:  *Connect with me*
 
 <img align="right" src="https://media.giphy.com/media/ftkU3vnQLeAoKcKxas/giphy.gif" width="350" height="150">
   
@@ -30,7 +30,7 @@
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/arkastat98)
 
 
-## 🤓 More about me
+## 🤓 *More about me*
 
 <img align="right" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="350" height="150">
   
@@ -44,7 +44,7 @@
   
 ⚡ Fun fact: I ❤️ 🍨 😉
   
-## 👨‍💻 Technical Stuffs
+## 👨‍💻 *Technical Stuffs*
 
 <img align="right" src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" width="350" height="150">
 
@@ -101,11 +101,11 @@
 <br/>
 </details>
   
-## 🏆 GitHub Trophies
+## 🏆 *GitHub Trophies*
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArkaB-DS&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📈  Stats 
+## 📈  *Stats* 
 
 <details>
 <summary> 📊 GitHub Profile Stats</summary>
