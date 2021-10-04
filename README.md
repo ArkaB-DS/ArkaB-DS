@@ -135,5 +135,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a> -->
 
-<a href="https://github.com/ArkaB-DS/github-readme-activity-graph"><img alt="AJ's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ArkaB-DS&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ArkaB-DS/github-readme-activity-graph"><img alt="AJ's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ArkaB-DS&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/></a>
 
