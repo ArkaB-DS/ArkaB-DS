@@ -13,7 +13,7 @@
 
 <!--### I'm *Arkajyoti Bhattacharjee* 😎 aka ***AJ*** 😁
 ### Welcome to my profile! 😍 ![](https://komarev.com/ghpvc/?username=ArkaB-DS&color=brightgreen&style=plastic)
-  I am currently a graduate student pursuing my Masters in **Statistics** at *Indian Institute of Technology, Kanpur*, India.-->
+  I am currently a 1st year Ph.D. student in **Statistics** at *The Ohio State University*.-->
 <br><br>
 
   ## :link:  *Connect with me*
