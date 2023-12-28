@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!;Welcome+to+my+GitHub+profile!;I'm+Arkajyoti+Bhattacharjee;aka+AJ.;I'm+a+1st+year+Ph.D. +student;in+Statistics;at+The+Ohio+State+University.;&center=true&size=25&font=BioRhyme&color=0A85B3&width=600">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi!;Welcome+to+my+GitHub+profile!;I'm+Arkajyoti+Bhattacharjee;aka+Aj.;I'm+a+2nd+year+Ph.D. +student;in+Statistics;at+The+Ohio+State+University.;&center=true&size=25&font=BioRhyme&color=0A85B3&width=600">
   </a>
 </h1>
   
@@ -18,16 +18,11 @@
 
   ## :link:  *Connect with me*
 
-<img align="right" src="https://media.giphy.com/media/ftkU3vnQLeAoKcKxas/giphy.gif" width="350" height="150">
-  
+<img align="right" src="https://media.giphy.com/media/ftkU3vnQLeAoKcKxas/giphy.gif" width="250" height="70">
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkajyoti-aj/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkastat98@gmail.com)
-
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArkaB-DS)
-[![Quora Badge](https://img.shields.io/badge/Quora%20-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Arka-Bhattacharjee-19)
-
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ArkajyotiBhat10)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/arkastat98)
+
 
 
 ## 🤓 *More about me*
@@ -135,5 +130,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a> -->
 
-<a href="https://github.com/ArkaB-DS/github-readme-activity-graph"><img alt="AJ's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ArkaB-DS&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/></a>
-
+<!--<a href="https://github.com/ArkaB-DS/github-readme-activity-graph"><img alt="AJ's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ArkaB-DS&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/></a>-->
+[![Aj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArkaB-DS&theme=github-compact)](https://github.com/ArkaB-DS/github-readme-activity-graph)
